@@ -168,7 +168,7 @@ gateway=
 dns='8.8.8.8 8.8.4.4'
 hostname=
 network_console=false
-set_debian_version 11
+set_debian_version 10
 mirror_protocol=http
 mirror_host=deb.debian.org
 mirror_directory=/debian
